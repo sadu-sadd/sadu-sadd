@@ -56,6 +56,6 @@
 <p> 
 
 <div align="center">
-  🙂 Cool You saw my profile my profile! Have a nice day! 🙂 <br/>
+  🙂 Cool You saw my profile! Have a nice day! 🙂 <br/>
   &copy; 2023 Syed Sadath
 </div>
