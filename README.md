@@ -33,9 +33,7 @@
 
 ![Syed Sadath's github stats](https://github-readme-stats.vercel.app/api?username=sadu-sadd&show_icons=true&theme=transparent)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadu-sadd&theme=transparent" alt="mystreak"/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadu-sadd&theme=transparent&layout=compact">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadu-sadd&theme=transparent&layout=compact">
 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect Me Via
